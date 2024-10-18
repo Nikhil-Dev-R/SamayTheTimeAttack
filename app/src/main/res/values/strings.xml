@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Samay The Time Attack</string>
+    <string name="fab">Fab</string>
+        <string name="_07_30_am">07:30 AM</string>
+        <string name="set_time">Set Time</string>
+        <string name="save_alarm">Save Alarm</string>
+        <string name="snooze">Snooze</string>
+        <string name="stop">Stop</string>
+        <string name="upcoming_alarm">"Upcoming Alarm: "</string>
+        <string name="no_upcoming_alarm">No upcoming alarm</string>
+    <string name="alarms">Alarms</string>
+    <string name="alarm_name">Alarm Name</string>
+</resources>
